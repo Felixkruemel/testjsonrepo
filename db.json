@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "prices": [
     {
       "id": 1,
-      "title": "hello"
+      "amount": 7.52
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
